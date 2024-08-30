@@ -44,5 +44,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Contato
 
-Para mais informações, entre em contato através do [LinkedIn](https://www.linkedin.com/in/ArmandoNeto/) ou envie um email para armandogoncalves2@hotmail.com.
+Para mais informações, entre em contato através do [LinkedIn](www.linkedin.com/in/armando-neto-b44972208) ou envie um email para armandogoncalves2@hotmail.com.
 
